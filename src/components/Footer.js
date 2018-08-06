@@ -22,7 +22,7 @@ const Footer = () => (
         <Link href={data.repo} children="Source" />
       </Column>
       <Column>
-        <Link href="https://lachlanjc.me" children="By @lachlanjc" />
+        <Link href="https://lachlanjc.me" children="Designed By @lachlanjc" />
       </Column>
     </Columns>
     <Bar mt={3} />

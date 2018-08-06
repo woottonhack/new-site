@@ -12,7 +12,6 @@ export default () => (
     <Header />
     <Workshops />
     <GetStarted />
-    <Submit />
     <Footer />
   </div>
 )

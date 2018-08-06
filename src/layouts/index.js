@@ -8,7 +8,7 @@ import { Container, colors } from '@hackclub/design-system'
 export default ({ children }) => (
   <ThemeProvider>
     <Helmet
-      title="SCHacks"
+      title={ data.name }
       meta={[
         { name: 'description', content: data.description },
         { name: 'twitter:card', content: 'summary_large_image' },

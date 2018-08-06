@@ -16,14 +16,14 @@ import data from '../data.json'
 
 const Header = () => (
   <Box pt={[4, 5]}>
-    <Logo size={72} />
+     <img src={data.logo} alt="Logo" style={{width: 75}} />
     <Flex align="center" mb={3} wrap>
       <Link href="https://hackclub.com" mr={3}>
         <Heading.h1 color="primary" f={6}>
           Hack Club
         </Heading.h1>
       </Link>
-      <Badge>State High</Badge>
+      <Badge>Wootton High School</Badge>
     </Flex>
     <Text f={[3, 4]}>{data.description}</Text>
     <Button
@@ -40,13 +40,13 @@ const Header = () => (
         <Text>
           <strong>Next meeting</strong>
           <Link
-            href="http://rmd.at/schacks"
+            href="http://rmd.at/whs-hack"
             target="_blank"
             style={{ fontSize: 14, fontStyle: 'italic' }}
             children={' — want a reminder?'}
           />
         </Text>
-        <Text>B216, 3:30–5:00pm</Text>
+        <Text>289, 2:30–4:00pm</Text>
       </Box>
     </Flex>
   </Box>

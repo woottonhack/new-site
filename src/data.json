@@ -1,25 +1,47 @@
 {
-  "name": "State High Hack Club",
+  "name": "Wootton Hack Club",
   "description": "A fun, creative place to learn to code with friends.",
-  "url": "https://club.hackhappyvalley.com",
-  "repo": "https://github.com/schacks/site",
-  "card": "https://schacks.hackhappyvalley.com/card.png",
+  "url": "https://hack.wootton.club",
+  "repo": "https://github.com/woottonhack/new-site",
+  "card": "https://hack.wootton.club/card.png",
   "meeting": {
-    "month": "June",
+    "month": "Sept",
     "day": 4
   },
-  "workshops": [
-    { "slug": "personal_website", "name": "Personal website" },
-    { "slug": "that_was_easy", "name": "That was easy" },
-    { "slug": "geometric_pattern", "name": "Geometric pattern" },
-    { "slug": "dodge", "name": "Dodge" },
-    { "slug": "platformer", "name": "Platformer" },
-    { "slug": "collaborative_sketch", "name": "Collaborative sketch" },
-    { "slug": "dashboard", "name": "Dashboard" },
-    { "slug": "rails_notes", "name": "Rails Notes" }
-  ],
-  "start": [
+  "workshops": [{
+      "slug": "personal_website",
+      "name": "Personal website"
+    },
     {
+      "slug": "that_was_easy",
+      "name": "That was easy"
+    },
+    {
+      "slug": "geometric_pattern",
+      "name": "Geometric pattern"
+    },
+    {
+      "slug": "dodge",
+      "name": "Dodge"
+    },
+    {
+      "slug": "platformer",
+      "name": "Platformer"
+    },
+    {
+      "slug": "collaborative_sketch",
+      "name": "Collaborative sketch"
+    },
+    {
+      "slug": "dashboard",
+      "name": "Dashboard"
+    },
+    {
+      "slug": "rails_notes",
+      "name": "Rails Notes"
+    }
+  ],
+  "start": [{
       "href": "https://workshops.hackclub.com/PREFACE.md",
       "children": "1. Preface"
     },
@@ -31,8 +53,10 @@
       "href": "https://hackclub.com/cloud9_setup",
       "children": "3. Cloud9"
     },
-    { "href": "http://slack.hackclub.com/", "children": "4. Slack" }
+    {
+      "href": "http://slack.hackclub.com/",
+      "children": "4. Slack"
+    }
   ],
-  "logo":
-    "M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M18.4,10 L18,8 L9,8 L9,25 L11,25 L11,18 L16.6,18 L17,20 L24,20 L24,10 L18.4,10 Z M16.2,15.3 L15.5,16 L12.5,13 L15.5,10 L16.2,10.7 L13.9,13 L16.2,15.3 Z M18.3,17.3 L20.6,15 L18.3,12.7 L19,12 L22,15 L19,18 L18.3,17.3 Z"
+  "logo": "logo.png"
 }
