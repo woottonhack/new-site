@@ -5,8 +5,8 @@
   "repo": "https://github.com/woottonhack/new-site",
   "card": "https://hack.wootton.club/card.png",
   "meeting": {
-    "month": "????",
-    "day": 0
+    "month": "SEPT",
+    "day": 26
   },
   "workshops": [{
       "slug": "personal_website",
@@ -50,12 +50,12 @@
       "children": "2. Code of Conduct"
     },
     {
-      "href": "https://hackclub.com/cloud9_setup",
-      "children": "3. Cloud9"
+      "href": "http://slack.hackclub.com/",
+      "children": "3. Slack"
     },
     {
-      "href": "http://slack.hackclub.com/",
-      "children": "4. Slack"
+      "href": "https://www.facebook.com/groups/woottonhc",
+      "children": "4. Facebook Group"
     }
   ],
   "logo": "logo.png"
