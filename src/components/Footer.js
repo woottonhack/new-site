@@ -13,7 +13,7 @@ const Footer = () => (
     <Bar />
     <Columns>
       <Column>
-        <Text>State High hacks</Text>
+        <Text>Wootton HS Hack Club</Text>
       </Column>
       <Column>
         <Text>MIT license</Text>
