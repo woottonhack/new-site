@@ -28,11 +28,11 @@ const Header = () => (
     <Text f={[3, 4]}>{data.description}</Text>
     <Button
       bg="primary"
-      color: 'white',
-      fontSize: 3,
-      m: 0,
-      py: 3,
-      px: 4
+      color="white"
+      fontSize=3
+      m=0
+      py=3
+      px=4
       href="https://airtable.com/shrBU3X26Pczwp6D9"
       target="_blank"
       children="Sign Up"
