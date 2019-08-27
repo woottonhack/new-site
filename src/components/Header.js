@@ -29,10 +29,10 @@ const Header = () => (
     <Button
       bg="primary"
       color="white"
-      fontSize=3
-      m=0
-      py=3
-      px=4
+      fontSize={3}
+      m={0}
+      py={3}
+      px={4}
       href="https://airtable.com/shrBU3X26Pczwp6D9"
       target="_blank"
       children="Sign Up"
