@@ -27,9 +27,12 @@ const Header = () => (
     </Flex>
     <Text f={[3, 4]}>{data.description}</Text>
     <Button
-      bg="accent"
-      mt={3}
-      mb={4}
+      bg="primary"
+      color: 'white',
+      fontSize: 3,
+      m: 0,
+      py: 3,
+      px: 4
       href="https://airtable.com/shrBU3X26Pczwp6D9"
       target="_blank"
       children="Sign Up"
