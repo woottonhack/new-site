@@ -30,9 +30,9 @@ const Header = () => (
       bg="accent"
       mt={3}
       mb={4}
-      href="https://hackclub.com"
+      href="https://airtable.com/shrBU3X26Pczwp6D9"
       target="_blank"
-      children="Learn more"
+      children="Sign Up"
     />
     <Flex align="center">
       <Calendar month={data.meeting.month} day={data.meeting.day} />
