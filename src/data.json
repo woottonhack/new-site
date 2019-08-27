@@ -1,12 +1,12 @@
 {
   "name": "Wootton Hack Club",
   "description": "A fun, creative place to learn to code with friends.",
-  "url": "https://hack.wootton.club",
+  "url": "https://wootton.hackclub.com",
   "repo": "https://github.com/woottonhack/new-site",
-  "card": "https://hack.wootton.club/card.png",
+  "card": "https://wootton.hackclub.com/card.png",
   "meeting": {
-    "month": "SEPT",
-    "day": 26
+    "month": "TBD",
+    "day": "?"
   },
   "workshops": [{
       "slug": "personal_website",
@@ -52,10 +52,6 @@
     {
       "href": "http://slack.hackclub.com/",
       "children": "3. Slack"
-    },
-    {
-      "href": "https://www.facebook.com/groups/woottonhc",
-      "children": "4. Facebook Group"
     }
   ],
   "logo": "logo.png"
