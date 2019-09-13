@@ -23,7 +23,7 @@ const Header = () => (
           Hack Club
         </Heading.h1>
       </Link>
-      <Badge>Wootton High School</Badge>
+      <Badge>@Wootton High School</Badge>
     </Flex>
     <Text f={[3, 4]}>{data.description}</Text>
     <Button
